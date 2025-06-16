@@ -1,3 +1,1 @@
- ["first repository", "GitHub learning task"]
-
-# MyFirstRepo
+ "first repository", "GitHub learning task"
